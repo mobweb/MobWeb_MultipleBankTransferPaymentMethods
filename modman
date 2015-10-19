@@ -1,0 +1,6 @@
+app/code/community/MobWeb/MultipleBankTransferPaymentMethods app/code/community/MobWeb/MultipleBankTransferPaymentMethods/
+
+app/etc/modules/MobWeb_MultipleBankTransferPaymentMethods.xml app/etc/modules/MobWeb_MultipleBankTransferPaymentMethods.xml
+
+# Clear the cache
+@shell   rm -rf $PROJECT/var/cache/* && echo "Magento Cache cleared"

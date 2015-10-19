@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<MobWeb_MultipleBankTransferPaymentMethods>
+			<active>true</active>
+			<codePool>community</codePool>
+		</MobWeb_MultipleBankTransferPaymentMethods>
+	</modules>
+</config>
